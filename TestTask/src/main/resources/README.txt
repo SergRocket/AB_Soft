@@ -1,0 +1,1 @@
+To run the project from command line with maven, use mvn test command
